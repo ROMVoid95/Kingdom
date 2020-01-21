@@ -13,3 +13,6 @@ crafttweaker.log
 .mixin.out/audit/mixin_implementation_report.txt
 config/splash.properties
 .mixin.out/audit/mixin_implementation_report.csv
+config/splash.properties
+config/splash.properties
+*.properties
