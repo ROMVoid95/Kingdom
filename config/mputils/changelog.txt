@@ -1,0 +1,810 @@
+Sky of Diamonds-1.6.0
+*** Updates? Oh Boy Do We Got 'Em Baby! ***
+- Added in game patron rewards for - mrxtoz (mr epic more like)!
+- Added a fancy new splash animation.
+- Updated links to add DRodriguez Gaming's SoD YouTube series to help/guides section.
+- Fixed Bug: Recipe conflict - Open Blocks scaffolding & Random Things block of sticks.
+- Fixed Bug: Cyclic cables get eaten by Botania's munchdew.
+- Fixed Bug: Certus quartz and zinc spawning in nether/end even though have no use.
+- Fixed Bug: OSS broken/doesn't work.
+- Removed DummyCoreUnofficial-2.4.112.5.
+- Updated to CustomLoadingScreen-1.12.2-1.4.1.
+- Updated to SolarFluxReborn_1.12.2-4.35r.
+- Updated to engineersdecor-1.12.2-1.0.12-b2.
+- Updated to FTBUtilities-5.4.0.106.
+- Updated to NuclearCraft-2.18j-1.12.2.
+- Updated to exnihilocreatio-1.12.2-0.4.7.1.
+- Updated to BetterQuesting-3.5.312.
+- Updated to armoryexpansion-1.4.0.
+- Updated to Forgelin-1.8.4.
+- Updated to fluxnetworks-1.12.2-4.0.10-27.
+- Updated to engineerstools-1.12.2-1.0.3-b1.
+- Updated to plustic-7.1.6.1.
+- Updated to OreExcavation-1.4.143.
+- Updated to openmodularturrets-1.12.2-3.1.4-356.
+- Updated to Bountiful Baubles-1.12.2-0.1.1.
+- Updated to chesthopper-1.2.3.
+- Updated to Cyclic-1.12.2-1.19.17.
+- Updated to Draconic-Additions-1.12.2-1.8.2.25-universal.
+- Updated to StandardExpansion-3.4.167.
+- Updated to Sledgehammer-1.12.2-1.6.5.
+- Updated to jasbtweaks-2.3.4-mc1.12.x.
+- Updated to randompatches-1.12.2-1.18.2.1.
+- Updated to libnine-1.12.2-1.1.4.
+- Updated to Mekanism-1.12.2-9.8.2.389.
+- Updated to MekanismGenerators-1.12.2-9.8.2.389.
+- Updated to MekanismTools-1.12.2-9.8.2.389.
+- Updated to mekores-2.0.11.
+- Updated to UniDict-1.12.2-2.9.3.
+- Updated to tmemes-1.12.2-1.0.7.
+- Updated to SimplyJetpacks2-1.12.2-2.2.14.67.
+- Updated to RFExpansion-3.4.31.
+- Updated to RebornCore-1.12.2-3.16.3.476-universal.
+- Added SplashAnimation-0.2.1 (to client build only).
+- Removed Herobrine.
+
+Want to see more regular updates? Become a Patron: https://www.patreon.com/shadowake :)
+
+Need a server? Want to support Awakening? Why not give BisectHosting a try? With servers from as little as $1.99!
+Please use my link and enter code "awakening25" for 25% off any server: https://bisecthosting.com/awakening
+
+Current Known Issues:
+- Tinkers Complement sledgehammer doesn't break diorite/andesite/granite, see https://github.com/KnightMiner/TinkersComplement/issues/53
+
+Note: Remember if you ever have problems after an update, backups can be found in the \backups folder.
+
+-----PREVIOUS VERSIONS-----
+Only the latest version will receive support, the below versions are no longer supported!
+---------------------------
+
+Sky of Diamonds-1.5.4
+*** Perfectly Formed! ***
+- Added in game patron rewards for - mrxtoz (mr epic more like)!
+- Reworked the challenges section to not need the OSS.
+- Added some quest rewards to assist in getting crystallized dust/ingots.
+- Updated the Forge build of server version to 14.23.5.2847 (forgot to do this with the last update, oops).
+- Updated to FTBLib-5.4.3.138.
+- Removed Herobrine.
+
+Sky of Diamonds-1.5.3
+*** Toasty Little Hotfix! ***
+- Added in game patron rewards for - redsdracomancer and PulsefireEzreaI (true legends)!
+- Removed mods causing serious issues (Dank Null - causing crashes & Vaultopic - bypassing server protection).
+- Updated the Forge build to 14.23.5.2847.
+- Fixed Bug: Crash when placing a mesh in a sieve.
+- Fixed Bug: Advanced pressure valve missing recipe.
+- Fixed Bug: Issues with quest detection with Mekanism machines section (changed detection type).
+- Fixed Bug: Issues with quest detection with Mekanism bins (changed detection type).
+- Removed DankNull-1.12.2-1.6.79.
+- Removed AwwMan 1.12.2.
+- Removed vaultopic-2.1.
+- Updated to FTBUtilities-5.4.0.103.
+- Updated to FTBLib-5.4.3.136.
+- Updated to Botania r1.10-362.
+- Removed Herobrine.
+
+Sky of Diamonds-1.5.2 (BUGGED DO NOT USE)
+*** 9001! ***
+- Significant optimization improvements.
+- Fixed Bug: Players cannot create new islands or reset islands (config mistake).
+- Fixed Bug: Fixed crash/error with ore crusher when placed and used.
+- Fixed Bug: Fixed some graphical issues related to villagers.
+- Updated to NuclearCraft-2.18h-1.12.2.
+- Updated to ImmersiveEngineering-0.12-91.
+- Updated to engineerstools-1.12.2-1.0.2-b3.
+- Updated to Cyclic-1.12.2-1.19.16.
+- Updated to AromaBackup-1.12.2-3.0.0.0.b129.
+- Updated to mysticallib-1.12.2-1.3.7.
+- Updated to StorageDrawers-1.12.2-5.4.0.
+- Updated to armoryexpansion-1.3.4b.
+- Updated to dropt-1.12.2-1.16.1.
+- Updated to FTBLib-5.4.3.134.
+- Updated to engineersdecor-1.12.2-1.0.11.
+- Updated to EnderCore-1.12.2-0.5.69.
+- Updated to mekores-2.0.10.
+- Updated to DankNull-1.12.2-1.6.80.
+- Updated to CodeChickenLib-1.12.2-3.2.3.358-universal.
+- Updated to Sledgehammer-1.12.2-1.6.2.
+- Updated to RebornCore-1.12.2-3.16.2.473-universal.
+- Updated to plustic-7.1.5.0.
+- Updated to athenaeum-1.12.2-1.17.4.
+- Updated to libnine-1.12.2-1.1.3.
+- Updated to BetterInvalidSession-1.12.2-1.0.3.
+- Updated to arcanearchives-0.2.0.9.
+- Removed Herobrine.
+
+Sky of Diamonds-1.5.1
+*** You Get An Update, You Get An Update, Everyone Gets An Update! ***
+- Updated the default server.properties file.
+- Updated to Draconic-Additions-1.12.2-1.8.1.24-universal.
+- Updated to arcanearchives-0.2.0.8.
+- Updated to ActuallyAdditions-1.12.2-r150.
+- Updated to mysticallib-1.12.2-1.3.5.
+- Updated to MCTSmelteryIO-1.12.2-1.0.47.
+- Updated to FTBLib-5.4.3.133.
+- Updated to libnine-1.12.2-1.1.2.
+- Updated to plustic-7.1.3.0.
+- Updated to CompactDrawers-1.12.2-1.0.5.124.
+- Updated to EnderIO-conduits-refinedstorage-1.12.2-5.1.51.
+- Updated to EnderIO-endergy-1.12.2-5.1.51.
+- Updated to EnderIO-integration-tic-1.12.2-5.1.51.
+- Updated to EnderIO-machines-1.12.2-5.1.51.
+- Updated to engineersdecor-1.12.2-1.0.11-b3.
+- Updated to MCA-1.12.2-6.0.1-universal.
+- Updated to NuclearCraft-2.18g-1.12.2.
+- Updated to SmoothFont-mc1.12.2-2.1.1 (client build only).
+- Updated to EnderIO-conduits-1.12.2-5.1.51.
+- Updated to EnderCore-1.12.2-0.5.68.
+- Updated to EnderIO-base-1.12.2-5.1.51.
+- Added armoryexpansion-1.3.3.
+- Removed Herobrine.
+
+Sky of Diamonds-1.5.0
+*** Seriously Actually Important Fixes! ***
+- Removed Emoticons mod due to it causing severe graphical issues for a small number of players.
+- Added EMC values to several more items.
+- Items should no longer ore dictionary unify in the player inventory (should fix a few issues).
+- Added some quests to the initial questline.
+- Fixed Bug: Creeper explosion can cause a server crash.
+- Fixed Bug: Safe space quest not detecting dimension change.
+- Fixed Bug: Alchemy table missing recipe due to a disabled item.
+- Removed emoticons-0.3-1.12.2-dist.
+- Removed instantunify-1.12.2-1.1.2.
+- Updated to arcanearchives-0.2.0.6.
+- Updated to torchmaster_1.12.2-1.8.0.79.
+- Updated to HammerCore-1.12.2-2.0.5.0.
+- Updated to Cyclic-1.12.2-1.19.15.
+- Updated to FTBUtilities-5.4.0.102.
+- Updated to FTBLib-5.4.3.132.
+- Updated to Pam's HarvestCraft 1.12.2zf.
+- Updated to p455w0rdslib-1.12.2-2.2.156.
+- Updated to NuclearCraft-2.18f-1.12.2.
+- Updated to DankNull-1.12.2-1.6.77.
+- Updated to BuildingGadgets-2.7.3.
+- Updated to unclunkify-1.12.2-1.0.2.
+- Updated to mysticallib-1.12.2-1.3.4.
+- Removed Herobrine.Sky of Diamonds-1.5.0
+*** Seriously Actually Important Fixes! ***
+- Removed Emoticons mod due to it causing severe graphical issues for a small number of players.
+- Added EMC values to several more items.
+- Items should no longer ore dictionary unify in the player inventory (should fix a few issues).
+- Added some quests to the initial questline.
+- Fixed Bug: Creeper explosion can cause a server crash.
+- Fixed Bug: Safe space quest not detecting dimension change.
+- Fixed Bug: Alchemy table missing recipe due to a disabled item.
+- Removed emoticons-0.3-1.12.2-dist.
+- Removed instantunify-1.12.2-1.1.2.
+- Updated to arcanearchives-0.2.0.6.
+- Updated to torchmaster_1.12.2-1.8.0.79.
+- Updated to HammerCore-1.12.2-2.0.5.0.
+- Updated to Cyclic-1.12.2-1.19.15.
+- Updated to FTBUtilities-5.4.0.102.
+- Updated to FTBLib-5.4.3.132.
+- Updated to Pam's HarvestCraft 1.12.2zf.
+- Updated to p455w0rdslib-1.12.2-2.2.156.
+- Updated to NuclearCraft-2.18f-1.12.2.
+- Updated to DankNull-1.12.2-1.6.77.
+- Updated to BuildingGadgets-2.7.3.
+- Updated to unclunkify-1.12.2-1.0.2.
+- Updated to mysticallib-1.12.2-1.3.4.
+- Removed Herobrine.
+
+Sky of Diamonds-1.4.2
+*** QoL! ***
+- Blacklisted some more grasses from twerking mod.
+- Blacklisted ATL Candles mod from random drops (can cause crash).
+- Re-added Chest Hopper mod (dev fixed reported bugs).
+- Made the patient bag require less patience (from 1 in 10,000 chance to 1 in 1,000).
+- Patient bag now has chance to drop diamond instead of nether star.
+- Added more info to patient bag tooltip.
+- Astral Sorcery will now take ore dictionary priority over many mods (fixes some issues).
+- Added the 4 missing singularity quests.
+- Added some more EMC values to misc items.
+- Sprinting no longer works as twerking for tree/plant growth.
+- Fixed Bug: Crash with cursed earth (mod incompatibility).
+- Fixed Bug: Fixed some issues with items not having EMC values when they should.
+- Fixed Bug: Mekanism lithium dust won't smelt in alloy smelter (in furnace mode).
+- Fixed Bug: Recipe conflict with tyrion blocks and decorative iron ore.
+- Fixed Bug: Minor spelling issues in the quest book.
+- Updated to GoodSkeletonsDontStrafe-v1.1.1-1.12.2.
+- Updated to mekores-2.0.9.
+- Updated to HammerCore-1.12.2-2.0.4.9.
+- Updated to NuclearCraft-2.18e-1.12.2.
+- Updated to engineersdecor-1.12.2-1.0.11-b2.
+- Updated to engineerstools-1.12.2-1.0.2-b1.
+- Added chesthopper-1.2.2.
+- Removed Herobrine.
+
+Sky of Diamonds-1.4.1
+*** Updates & Additions! ***
+- Added in game patron rewards for - Patty99 (what a guy)!
+- Blocks will generally break faster when mined.
+- Skeletons will no longer be attack avoiding ninjas (no longer strafe).
+- Creepers now have a chance to drop gunpowder after exploding.
+- Fixed Bug: Electrotine ore is unobtainable.
+- Updated to inventorypets-1.12-2.0.3.
+- Updated to jei_1.12.2-4.15.0.289.
+- Updated to NuclearCraft-2.18c-1.12.2.
+- Updated to arcanearchives-0.2.0.5.
+- Updated to yoyos_1.12.2-1.3.3.25.
+- Updated to engineersdecor-1.12.2-1.0.11-b1.
+- Updated to ChanceCubes-1.12.2-4.1.0.300.
+- Updated to FTBLib-5.4.3.131.
+- Updated to FTBUtilities-5.4.0.101.
+- Updated to mysticallib-1.12.2-1.3.3.
+- Updated to Draconic-Additions-1.12.2-1.8.0.23-universal.
+- Updated to dropt-1.12.2-1.16.0.
+- Updated to vaultopic-2.1.
+- Updated to jasbtweaks-2.1.3-mc1.12.x.
+- Updated to JAOPCAAgriculture-1.12.2-1.2.1.16.
+- Updated to randompatches-1.12.2-1.18.1.1.
+- Added itemscroller-1.12.2-0.12.0 (to client build only).
+- Added AirHop-v1.1.1-1.12.2.
+- Added AwwMan 1.12.2.
+- Added GoodSkeletonsDontStrafe-v1.1-1.12.2.
+- Added libnine-1.12.2-1.1.1.
+- Added unclunkify-1.12.2-1.0.1.
+- Added ProjectRed-1.12.2-4.9.4.120-world.
+- Removed Herobrine.
+
+Sky of Diamonds-1.4.0
+*** Urgent Update! ***
+- Added in game patron rewards for - TwilightPSN (you rock)!
+- Updated the spawn island! It's also done in a much less hacky way (so shouldn't bug out).
+- Switched the nether/end ore generator (should give higher outputs), may cause minor worldgen issues in existing worlds.
+- Added new player animation and emotes system.
+- Small performance tweaks.
+- Changed some conflicting default keys.
+- Changed default spawn biome from ocean to plains (should fix some mob spawn oddities).
+- Ores in nether/end will no longer have a chance to spawn silverfish/endermites.
+- Added more info to midnight portal quest.
+- Fixed Bug: Diamond block spawn platform broken (spawning as grass).
+- Fixed Bug: All grass blocks being converted to diamond blocks.
+- Fixed Bug: Stellar fluid conduits drop ender conduits when broken.
+- Fixed Bug: Minor typos.
+- Removed SoundFilters-0.11_for_1.12 (from client build only).
+- Removed WorldgenBlockReplacer-1.12.2-2.1.2.
+- Updated to stellarfluidconduit-1.12.2-1.0.2a.
+- Updated to SolarFluxReborn_1.12.2-4.34r.
+- Updated to HammerCore-1.12.2-2.0.4.8.
+- Updated to ExpandedEquivalence-1.12.2-13r.
+- Updated to FluidCows-1.1.21.
+- Updated to incontrol-1.12-3.9.16.
+- Updated to plustic-7.1.1.2.
+- Updated to engineerstools-1.12.2-1.0.1.
+- Updated to jasbtweaks-2.1.0-mc1.12.x.
+- Added Netherending-Ores-1.12.2-1.3-hotfix1.
+- Added emoticons-0.3-1.12.2-dist.
+- Added mclib-1.0.3-1.12.2.
+- Removed Herobrine.
+
+Sky of Diamonds-1.3.5 (BUGGED DO NOT USE)
+*** Optional! ***
+- Your changed options (and map settings) should now be preserved through pack updates!
+- Tweaked the image caching system (should boost load time for more players).
+- Tweaked the island settings in attempt to fix a rare bug where diamond blocks don't spawn.
+- Added Illuminati pet reward back to netherrack generator quest.
+- Fixed Bug: Issue with satchels quest line completing in a chain (actually fixed this time).
+- Updated to incontrol-1.12-3.9.15.
+- Updated to vaultopic-2.0.
+- Updated to WorldgenBlockReplacer-1.12.2-2.1.2.
+- Updated to SolarFluxReborn_1.12.2-4.33r.
+- Added moredefaultoptions-1.12-0.0.2.
+- Added ATLCraftCandlesMod(MC1.12-Ver1.9).
+- Removed Herobrine.
+
+Sky of Diamonds-1.3.4
+*** Life Of Brian! ***
+- Added in game patron rewards for - BWGreens (you're the best)!
+- Added a few misc quests.
+- Updated to RebornCore-1.12.2-3.16.0.469-universal.
+- Updated to SimplyJetpacks2-1.12.2-2.2.13.66.
+- Updated to PogoSticks-1.12.2-1.3.1.
+- Added ceilingtorch-1.12.2-v1.2.1.
+- Removed Herobrine.
+
+Sky of Diamonds-1.3.3
+*** Pog! ***
+- Added kappa loot bag (top tier bag - drops from bosses & very rarely from mob kills).
+- Added the OP to the compressed hammer (double output).
+- Fixed Bug: Loot Bags mod - patient bag becomes broken/untextured when opened.
+- Fixed Bug: Wireless power quest gives empty spawn egg as reward.
+- Fixed Bug: Mekanism tanks quest line completes in a chain (changed detection type).
+- Updated to ProjectEIntegration-1.12.2-2.5.0.
+- Updated to PogoSticks-1.12.2-1.2.0.
+- Updated to NuclearCraft-2.18a-1.12.2.
+- Updated to stellarfluidconduit-1.12.2-1.0.2.
+- Removed Herobrine.
+
+Sky of Diamonds-1.3.2
+*** Don't Let Memes Be Dreams! ***
+- Disabled Quark frogs due to ignoring spawn protections and mass spawning (my dudes).
+- Added quest for spectre dimension.
+- Fixed Bug: Crash when interacting with Nuclear Craft tile entities (machines etc).
+- Fixed Bug: Energetic alloy and vibrant alloy chickens quests have wrong requirements.
+- Rolled back to NuclearCraft-2.17c-1.12.2.
+- Updated to engineerstools-1.12.2-1.0.1-b3.
+- Updated to Quark-r1.6-177.
+- Added PogoSticks-1.12.2-1.1.0.
+- Removed Herobrine.
+
+Sky of Diamonds-1.3.1
+*** Peep'o! ***
+- Changed hunting dimension to standard overworld style terrain generation.
+- Disabled brain slime, support creeper, void eye, skeleton warrior and rocket creeper mobs (OP).
+- Fixed Bug: Villages spawn on stilts in the hunting dimension (delete dim28885 from world folder if this bothers you).
+- Fixed Bug: Dire wolves over spawning and ignoring spawn protection.
+- Fixed Bug: Fixed minor text issue with 'crazed' patron mobs.
+- Updated to astralsorcery-1.12.2-1.10.20.
+- Updated to ProjectEIntegration-1.12.2-2.4.0.
+- Updated to Draconic-Additions-1.12.2-1.7.6.22-universal.
+- Updated to randomtweaks-1.12.2-2.7.1.0.
+- Updated to NuclearCraft-2.18-1.12.2.
+- Updated to engineerstools-1.12.2-1.0.1-b2.
+- Updated to engineersdecor-1.12.2-1.0.10.
+- Updated to BuildingGadgets-2.7.2.
+- Updated to Bookshelf-1.12.2-2.3.588.
+- Updated to AttributeFix-1.12.2-1.0.9.
+- Removed Herobrine.
+
+Sky of Diamonds-1.3.0
+*** A Whole Lotta Update! ***
+- Added in game patron rewards for - _dju (XOXO)!
+- Finally ported patron cosmetic bags over (other in game rewards to follow soon).
+- Added sound when gathering items from bedrock and dirt.
+- We added a whole lot of OP to hammering (now doubles output).
+- Ender IO infinity dust will drop more frequently.
+- Added a BHC quest.
+- Added hoppers questline.
+- Added note to auto sifter that animation is disabled.
+- Disabled harpy mob due to it ignoring light levels and anti spawn mechanics.
+- Blacklisted Candymod cotton candy grass block from twerking mod.
+- Disabled duplicate compressed flint recipe.
+- Creeper quest was missing a certain reference...
+- Different tier Ender IO conduits and photovoltaic panels now connect.
+- Disabled EnderIO painter page in JEI.
+- Blacklisted Bountiful Baubles from dropping from chance globes (can cause crash).
+- Added marble, basalt and limestone Ex Nihilo Creatio compatibility.
+- Infinity dust can be made in all dimensions now, not just the overworld.
+- Set a 20 tick delay on dimension unload (should help fix dimension change issues).
+- Disabled claiming in the end dimension (to stop abuse on servers).
+- Swapped some of the USRG quests around to make more sense.
+- Fixed Bug: Fixed detection issue with ender pouch quest.
+- Fixed Bug: Translocators not accepting diamond nugget from Inventory Pets mod.
+- Fixed Bug: Removed interaction task from D20 quest (not detecting properly).
+- Fixed Bug: Villages spawn on stilts in the mining dimension (delete dim-6 from world folder if this bothers you).
+- Fixed Bug: 3x3 sugar cane recipe conflict.
+- Fixed Bug: Slimey generator won't craft.
+- Fixed Bug: Fixed some satchel quest detection weirdness.
+- Fixed Bug: Removed EMC from some items that fail to work after duplicated with EMC.
+- Fixed Bug: X, Y, Z accidentally removed from below mini map.
+- Removed LibEx-1.12.2-1.0.8.
+- Updated to ImmersivePosts-0.1.3.
+- Updated to fbnc-2.1.0.
+- Updated to twilightforest-1.12.2-3.9.984-universal.
+- Updated to speedyhoppers-1.1.19.
+- Updated to Tesslocator-1.1.0.15.
+- Updated to EpicSiegeMod-13.165.
+- Updated to engineersdecor-1.12.2-1.0.10-b2.
+- Updated to EnderIO-integration-tic-1.12.2-5.0.50.
+- Updated to EnderIO-conduits-refinedstorage-1.12.2-5.0.50.
+- Updated to EnderIO-machines-1.12.2-5.0.50.
+- Updated to EnderIO-endergy-1.12.2-5.0.50.
+- Updated to EnderIO-conduits-1.12.2-5.0.50.
+- Updated to EnderIO-base-1.12.2-5.0.50.
+- Updated to MekanismGenerators-1.12.2-9.8.1.383.
+- Updated to MekanismTools-1.12.2-9.8.1.383.
+- Updated to Mekanism-1.12.2-9.8.1.383.
+- Updated to CodeChickenLib-1.12.2-3.2.3.357-universal.
+- Updated to ChickenChunks-1.12.2-2.4.2.74-universal.
+- Updated to EnderStorage-1.12.2-2.4.6.137-universal.
+- Updated to exnihilocreatio-1.12.2-0.4.6.
+- Updated to Quark-r1.6-176.
+- Updated to mysticallib-1.12.2-1.3.2.
+- Updated to arcanearchives-0.2.0.3.
+- Updated to Translocators-1.12.2-2.5.2.81-universal.
+- Updated to Cyclic-1.12.2-1.19.14.
+- Updated to WR-CBE-1.12.2-2.3.2.33-universal.
+- Updated to ForgeMultipart-1.12.2-2.6.2.83-universal.
+- Updated to journeymap-1.12.2-5.5.5.
+- Added simplylight-1.12.2-0.8.7.
+- Added GasConduits-1.12.2-1.2.2.
+- Added jasbtweaks-2.0.1-mc1.12.x.
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.7
+*** Itty Bitty! ***
+- Added quests for Growable Cells.
+- Fixed some incorrect information in the quest book.
+- Fixed Bug: Several Tinker's Constructs quests not detecting properly.
+- Fixed Bug: Some quests give empty spawn egg as reward.
+- Removed angelRingToBauble-1.12-0.3.1.50+d4e654e (part of Extra Utilities 2 now).
+- Updated to Sledgehammer-1.12.2-1.6.0.
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.6
+*** twitch.tv/TeamFyro Just Sayin! ***
+- Added pack version number to HUD (helps debugging).
+- Changed some quest rewards and requirements (to make more sense to progression).
+- Wither/demon cats will no longer spawn unless with a wither witch (fix issue with daytime over-spawns).
+- Fixed a few very minor UI text issues.
+- Fixed Bug: Generate structures defaulting to off.
+- Fixed Bug: Some quests playing wrong sound.
+- Fixed Bug: Showing wrong version number on menu and in crash logs.
+- Fixed Bug: Playing with friends quest repeatable (actually fixed this time).
+- Fixed Bug: Disabled the MPUtils example popup on login (actually fixed this time).
+- Updated to arcanearchives-0.2.0.1.
+- Updated to EnderCore-1.12.2-0.5.65.
+- Updated to EnderIO-base-1.12.2-5.0.49.
+- Updated to EnderIO-conduits-1.12.2-5.0.49.
+- Updated to EnderIO-conduits-refinedstorage-1.12.2-5.0.49.
+- Updated to EnderIO-endergy-1.12.2-5.0.49.
+- Updated to EnderIO-integration-tic-1.12.2-5.0.49.
+- Updated to EnderIO-machines-1.12.2-5.0.49.
+- Updated to whatloomsahead-1.12.2-1.2.2.
+- Added recycler-3.2.4-1.12.
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.5
+*** We Got Him! ***
+- Switched to the modular install of Ender IO.
+- Added quests for Astral Sorcery.
+- Added quests for Arcane Archives.
+- Upped copper rates from sieves.
+- Changed some tips.
+- Disabled island protection (will allow players to TP etc - use FTBU to claim land).
+- Fixed Bug: Unable to attack during weapon cooldown (some weirdness with modded tools/weapons).
+- Fixed Bug: Mob masher does no damage to players or mobs.
+- Removed EnderIO-1.12.2-5.0.46.
+- Removed CyclopsCore-1.12.2-1.4.0.
+- Updated to Quark-r1.6-174.
+- Updated to AttributeFix-1.12.2-1.0.8.
+- Updated to RebornCore-1.12.2-3.15.5.467-universal.
+- Updated to Draconic-Evolution-1.12.2-2.3.24.349-universal.
+- Added EnderIO-base-1.12.2-5.0.46.
+- Added EnderIO-conduits-1.12.2-5.0.46.
+- Added EnderIO-conduits-refinedstorage-1.12.2-5.0.46.
+- Added EnderIO-machines-1.12.2-5.0.46.
+- Added EnderIO-integration-tic-1.12.2-5.0.46.
+- Added arcanearchives-0.2.0.
+- Added whatloomsahead-1.12.2-1.2.1.
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.4
+*** Hot Fix! ***
+- Switched mapping to Journey Map mod.
+- Changed some quest descriptions.
+- Updated the recipe for chance globes.
+- Added more tips.
+- Changed some quest rewards.
+- Blacklisted creative items (and a few misc items) from chance based random drops.
+- Fixed Bug: Playing with friends quest repeatable (infinite XP exploit).
+- Fixed Bug: Infinite world crash when placing advanced reconstructor.
+- Fixed Bug: Players force logged out in single player when stationary for too long.
+- Fixed Bug: Chance globes cause crash if drop items from Bibliocraft (mod blacklisted).
+- Fixed Bug: Chest hoppers void items when attached inventory is full (removed mod).
+- Fixed Bug: Attempted to fix a possible loading bug.
+- Removed SolarFluxAdditions-1.12.2-17r.
+- Removed bloodylib-1.0.1-beta.
+- Removed actuallyaddon-1.0.2.
+- Removed Xaeros_Minimap_1.17.4_Forge_1.12.
+- Removed XaerosWorldMap_1.4.3_Forge_1.12.
+- Removed chesthopper-1.12.2-1.2.1.
+- Updated to Quark-r1.6-172.
+- Updated to ExtraBotany-r1.1-55-fixed.
+- Updated to Bookshelf-1.12.2-2.3.587.
+- Added journeymap-1.12.2-5.5.5b9.
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.3
+*** Easy As ABC! ***
+- Increased growth chance when 'twerking' by 10%.
+- Decreased 'twerking' radius from 5 back to (the default) 3 blocks.
+- Disabled pyrotheum inventory smelting and crafting (just extra pages in JEI).
+- Altered gear recipes.
+- Updated skybox.
+- Halved mob spawn rate in the midnight dimension (back to default).
+- Blacklisted several grasses from Midnight from 'twerking' growth.
+- Added questline for Expandable Inventory.
+- Fixed Bug: Tesla Core Lib upgrades were disabled.
+- Fixed Bug: UI is overlaid when in cavern dimensions.
+- Fixed Bug: Several gear types e.g. gold, fail to craft in a crafting table.
+- Added ExpandableInventory-1.12.2-1.4.0.
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.2
+*** Gotta Go Fast! ***
+- Disabled fireworks when completing an achievement (causing lag spike).
+- Performance tweaks to nether generation.
+- Nether egg plants will now hurt mobs but not players.
+- Fixed Bug: Switched Smooth Font to optimization only mode to fix a render issue for some players.
+- Fixed Bug: Players force logged out in single player when stationary for too long.
+- Fixed Bug: Spelling & grammar mistakes in quest book.
+- Fixed Bug: Botania flower quests are completed by other flowers (changed detection type).
+- Fixed Bug: Gas tanks quests complete in a chain (changed detection type).
+- Updated to ExtraBotany-r1.1-55.
+- Added FeederHelmet-1.4.1.
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.1
+*** Creeper... Aww Man! ***
+- Added in game patron rewards for - Pewnz, Anomander084, HypnoticHarry, MrMIB7 and HeadShotConnor (you are the best)!
+- Quests now reload and sync on login (no need to do it manually after updates). Thanks Tykora!
+- Added info to quest book about joining other players island/team.
+- Removed quest sync/reload quest (no longer needed).
+- Performance improvements.
+- Fixed some ore dictionary issues.
+- Increased generation of Astral Sorcery shrines.
+- Astral Sorcery world gen will now spawn in the mining dimension.
+- Added quest for astral starmetal seeds.
+- Changed mining world top layer back to default grass to allow world gen.
+- Added rose gold to natural ore generation.
+- Updated some quest descriptions.
+- Fixed some internal cross mod support issues.
+- Added more tips.
+- Fixed Bug: Attempted to fix an issue some players reported with font issues.
+- Updated to MetalChests-v6.1.0+mc1.12.2.
+- Updated to Pam's HarvestCraft 1.12.2ze.
+- Updated to AromaBackup-1.12.2-3.0.0.0.b125.
+- Updated to Quark-r1.6-171.
+- Updated to RandomThings-MC1.12.2-4.2.7.3.
+- Added blockdrops-1.12.2-1.4.0 (to client build only).
+- Removed Herobrine.
+
+Sky of Diamonds-1.2.0
+*** Let The Loot Rain! ***
+- We heard you. We reverted the changes that made things less OP. Errmah Ghurd!
+- Finally added in Patron login messages (other Patron rewards will follow soon). Thanks Tykora!
+- Astral Sorcery is here (we worked out the kinks)! Quest line will follow shortly.
+- Recipe changes/additions/removals.
+- Added EMC values to some items (most notable singularities & related blocks).
+- Massively upped iron from sieves.
+- Actually disabled named mob death messages this time.
+- Added more solid crucible heat sources.
+- Removed most fluid crucible heat sources (I mean who ever used molten mithril under it)?
+- Added new tips.
+- Added new quests.
+- Reduced block break particles very slightly.
+- Allow coloured eggs to use ore dictionaried dyes.
+- Double output when crafting coloured eggs.
+- Added burn time to all saplings.
+- Chicken stats will now always show even if not analysed.
+- Gold chicken will now give ingots instead of nuggets (why this was default is beyond me)?
+- Removed the sphere world and related quest (it was way too laggy/buggy).
+- Fixed Bug: Fixed some crash/lag issues with various dimensions.
+- Fixed Bug: Missing mods error when joining a server (nether dungeons accidentally shipped in server build).
+- Fixed Bug: Fixed some ore unification weirdness with yellorium/uranium.
+- Fixed Bug: Removed villager spawner quest and replaced with spawn eggs (was bugged/laggy).
+- Fixed Bug: Not Pepsi quest requires wrong kind of coal coke (changed to ore dictionary detection).
+- Fixed Bug: Spice rack and upper door frame recipe conflict.
+- Fixed Bug: Fixed issues in the singularities questlines.
+- Removed endergetic-0.0.1.
+- Rolled back to Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.
+- Updated to NuclearCraft-2.17c-1.12.2.
+- Updated to architecturecraft-1.12-3.98.
+- Added stygian-1.0.4.
+- Added FTBUtilities-5.4.0.100.
+- Added FTBLib-5.4.3.130.
+- Added [1.12]MoVillages-1.5.4.
+- Added astralsorcery-1.12.2-1.10.19.
+- Added Labyrinth-1.12.2-1.0.
+- Removed Herobrine.
+
+Sky of Diamonds-1.1.6
+*** Feedback Loop! ***
+- Added back small chance to get draconium when sieving dust in a diamond mesh.
+- Reduced infinity fluid cow spawn chance by 90%.
+- Reduced infinity fluid cows breeding chance and increased cooldowns (about half).
+- Reduced draconium fluid cow spawn chance by 50%.
+- Blacklisted quartz from the loot recycler.
+- Disabled Equivilant Additions energy collector MK4.
+- Added some EMC values.
+- Fixed Bug: Removed block break task from chance cube quest (not detecting).
+- Fixed Bug: Spelling mistake in quest book.
+- Updated to TBone-v1.6.8+mc1.12.2.
+- Updated to AromaBackup-1.12.2-3.0.0.0.b124.
+- Updated to MetalChests-v6.0.1+mc1.12.2.
+- Removed Herobrine.
+
+Sky of Diamonds-1.1.5
+*** You're Welcome! ***
+- Nether gen performance tweaks.
+- Named entities no longer display death messages (bit much with a mob farm).
+- Altered the recipe for the watch of flowing time.
+- Not Enough Wands now use RF instead of XP (easy RF mode).
+- Only passive compressed mobs spawn now (no more compressed creepers).
+- Added compressed fluid cows (OMG I want one)!
+- Removed some tips that spanned 2 lines.
+- Increased (doubled) chance for chicken stick to spawn a chicken.
+- Altered recipe for PrejectEX collector and relay.
+- Disabled ProjectE collector and relay (use ProjectEX ones instead, better performance).
+- Fixed Bug: Sharpening and polishing kit quests have wrong detection type.
+- Fixed Bug: Fixed some potential ore dictionary miss matches with the smeltery.
+- Updated to ActuallyAdditions-1.12.2-r149.
+- Updated to Cyclic-1.12.2-1.19.13.
+- Updated to engineersdecor-1.12.2-1.0.10-b1.
+- Added thermallogistics-0.2-26.
+- Added lootcapacitortooltips-1.3 (to client build only).
+- Removed Herobrine.
+
+Sky of Diamonds-1.1.4
+*** It's Like A Whole New Game! ***
+IMPORTANT! If updating; delete the DIM-1 and DIM7 folders from your save/world file due to world gen changes.
+- Small performance tweaks.
+- Reverted the Twilight Forest to standard non skylight forest generation.
+- Switched from NetherEX to Better Nether (fits better with style of the pack and better performance).
+- Reduced volume of and compressed all portal related sounds.
+- Halved damage of several mobs.
+- Halved follow range of several mobs.
+- Increased speed of dire wolves.
+- Compressed some images.
+- Disabled the dodo and grove sprite passive mobs.
+- Illuminati pet cool-down increased from 2 to 5 minutes.
+- Illuminati pet max items given per pet set to 5 (to avoid abuse).
+- Blacklisted ProjectEX, ProjectE, Draconic Evolution, Draconic Additions and Avaritia from Illuminati pet (was total game breaking).
+- Blacklisted ProjectEX, ProjectE, Draconic Evolution, Draconic Additions and Avaritia from chance globes (also total game breaking).
+- Blacklisted ProjectEX, ProjectE, Draconic Evolution, Draconic Additions and Avaritia from randomite ore (again total game breaking).
+- Blacklisted a few other misc items from Illuminati pet.
+- Disabled the festive creeper hostile mob (too OP).
+- Cactus can now spawn in all sandy biome types.
+- Reduced default particles.
+- Chance globes now take 5 minutes before they drop an item.
+- Altered recipe for Illuminati pet.
+- Moved Illuminati pet reward to a higher tier quest (philosophers stone)
+- Added more tips.
+- Updated skybox - kappa.
+- Mobs should now always drop worn armour and held items on death.
+- Skeleton arrows can now be picked up.
+- Zombie AI performance tweaks.
+- Increased loot required to create new bag in loot recycler.
+- Blacklisted obsidian and glowstone from the loot recycler.
+- Updated default max tick time in server build to unlimited, should stop crashes when generating new dimensions.
+- Fixed Bug: Attempted to fix a bug where mass zombie pigmen spawn at overworld nether portal.
+- Fixed Bug: Double furnace quest requires attomic reconstructor quest (reversed).
+- Fixed Bug: Custom recipe for wand of animation was set to stone crafting table.
+- Fixed Bug: Fixed projector quest first in IE questline despite needing treated wood (altered recipe).
+- Fixed Bug: Blue slime chicken quest completes when completing slime chicken quest (changed detection type).
+- Fixed Bug: Some singularities have no crafting recipe.
+- Fixed Bug: Fluxed singularity quest even though item disabled (removed quest).
+- Removed EnderZoo-1.12.1-1.4.0.49.
+- Removed EnderIO-zoo-1.12.2-5.0.46.
+- Removed combatrefined-1.4.2.
+- Removed NetherEx-1.12.2-2.0.8.
+- Removed NoFog-1.12.2b3.
+- Updated to Tesslocator-1.1.0.14.
+- Updated to BuildingGadgets-2.7.1.
+- Updated to ProjectEX-1.2.0.39.
+- Updated to phosphor-1.12.2-0.2.6+build50-universal.
+- Updated to architecturecraft-1.12-3.95.
+- Added BetterInvalidSession-1.12.2-1.0.2.
+- Added betternether-0.1.8.3.
+- Added ServerPropertiesLAN-2.65 (to client build only).
+- Other miscellaneous config changes.
+- Removed Herobrine.
+
+Sky of Diamonds-1.1.3
+*** Now With 99.9% Less Death & Destruction! ***
+- Reduced creeper jockeys drastically.
+- Creepers are a bit less explody (won't arm whilst walking towards target).
+- A zombie will no longer spawn if a zombie kills a player.
+- John Cena will not show up as often.
+- Less natural powered creeper spawns.
+- Skeletons now have 20% inaccuracy on their shots.
+- Mobs will no longer auto target player pets.
+- Updated skybox.
+- Altered philosophers stone recipe slightly.
+- Removed a duplicated paper recipe.
+- Disabled the blazing juggernaut mob (slightly buggy and annoying to deal with).
+- Disabled lost miner and traveling merchant (villagers replaced by MCA).
+- Updated main menu slightly.
+- Limited mob spawns per player and per chunk.
+- Dodos no longer convert grass in to mycellium.
+- Festive creepers TNT projectiles no longer damage terrain.
+- Reduced max number of baby spiders that spawn with a mother from 6 to 4.
+- Added some EMC values (most notable = philosophers stone & gaia spirits).
+- Skeletons are no longer snipers and can ony shoot 16 blocks not 64.
+- Reduced webbing chance of spiders from 25% to 10%.
+- Reduced (quartered) mobs aggro radius.
+- Passive mobs will no longer fight back.
+- Added rose gold dust to sieve list.
+- Added crafting recipes for natural spawn only chickens (quartz & soul sand).
+- Mobs will not try as hard to avoid damage and explosions.
+- Fixed Bug: Items unifying in incorrect ways (most notable: Ex Nihilo Creatio ore pieces).
+- Fixed Bug: Mekanism energy cubes questline completes in a chain (changed detection type).
+- Fixed Bug: Sieves should once again drop draconium pieces not straight dust.
+- Updated to mcjtylib-1.12-3.5.4.
+- Updated to AutoRegLib-1.3-32.
+- Updated to phosphor-1.12.2-0.2.5+build48-universal.
+- Updated to MekanismTools-1.12.2-9.8.0.381.
+- Updated to MekanismGenerators-1.12.2-9.8.0.381.
+- Updated to Mekanism-1.12.2-9.8.0.381.
+- Added incontrol-1.12-3.9.13.
+- Added SimpleSmelteryAccelerator-1.0.1.
+- Added Controlled Burn-1.12.2.017.
+- Added NoFog-1.12.2b3 (to client build only).
+- Removed Herobrine.
+
+Sky of Diamonds-1.1.2
+*** Better Than Ever! ***
+- Performance improvements.
+- Re-weighted sieve outputs (main changes = more iron & less draconium).
+- Altered recipe for chance globes.
+- Updated main menu - much WOW!
+- Fixed Bug: Project EX arcane transmutation tablet has no recipe.
+- Fixed Bug: Recipe conflicts between iron ring, iron frame and iron gear.
+- Fixed Bug: Recipe conflict between wooden wrench and wooden hammer.
+- Fixed Bug: Spelling mistake in mana spreader quest.
+- Fixed Bug: Tinkers toolstation and tool part variants missing in JEI.
+- Fixed Bug: Stuck in bed issue.
+- Removed TickDynamic-1.12.2-1.0.1.
+- Removed smooth-scrolling-everywhere-1.0.
+- Updated to industrialforegoing-1.12.2-1.12.13-237.
+- Updated to refinedstorage-1.6.15.
+- Updated to ProjectEIntegration-1.12.2-2.3.1.
+- Updated to ProjectRed-1.12.2-4.9.4.120-Base.
+- Updated to ProjectRed-1.12.2-4.9.4.120-compat.
+- Updated to ProjectRed-1.12.2-4.9.4.120-integration.
+- Updated to ProjectRed-1.12.2-4.9.4.120-lighting.
+- Added bedpatch-2.2-1.12.2.
+- Added BedBugs-1.12-1.0.1 (to client build only).
+- Removed Herobrine.
+
+Sky of Diamonds-1.1.1
+*** It's ALIVE! ***
+- Disabled stone transmutation table.
+- Added/changed/removed some quests.
+- Fixed Bug: Initial inventory not spawning with player.
+- Fixed Bug: Initial quest can't be completed (due to update in MCA mod) removed quest.
+- Fixed Bug: Recipes requiring 3 string conflicts with recipe for 2 string.
+- Removed Herobrine.
+
+Sky of Diamonds-1.1.0
+*** The First Big One! ***
+- Small performance improvements.
+- Adjusted some default volume settings.
+- Removed 'loss' from the heavy sieve.
+- Halved time for Ex Nihilo Creatio to compost to dirt.
+- Increased compressed crooks durability from 2X to 5X.
+- Giving fortune to a crook will now cause double drops.
+- Sieve meshes now stack to 64 up from 16.
+- Increased wooden crucible speed by 25%.
+- Added some more tips to loading screen & removed some no longer needed ones.
+- Fixed some potential Ex Nihilo Creatio ore dictionary weirdness.
+- Increased chance per second spawn rate from animal bait (just over 2X).
+- Updated recipes for USRG's resource generators.
+- Disabled dynamic coloured lighting that was happening carrying certain items (e.g. glowstone/lava).
+- Fixed Bug: Some default key-bind conflicts (most notable light level overlay).
+- Fixed Bug: JEI showing sieve recipes that don't exist.
+- Fixed Bug: Possible crash to desktop error.
+- Fixed Bug: Chickens quests completing in chain, changed detection type.
+- Fixed Bug: Botanic Additions mana tesseract shows in JEI for every recipe.
+- Removed BabyMobs-1.12-1.5.5.
+- Removed EerieEntities-1.12.2-1.0.7.
+- Updated to twilightforest-1.12.2-3.9.974-universal.
+- Updated to RebornCore-1.12.2-3.14.1.457-universal.
+- Updated to BuildingGadgets-2.7.0.
+- Updated to MCA-1.12.2-6.0.0-universal.
+- Updated to MCTSmelteryIO-1.12.2-1.0.46.
+- Other miscellaneous config changes.
+- Removed Herobrine.
+
+Sky of Diamonds-1.0.3
+*** Disco Diva! ***
+- Fixed Bug: Thermal satchels quests completing in chain, changed detection type.
+- Fixed Bug: EU2 generator quests completing in chain, changed detection type.
+- Fixed Bug: Incorrect information given in quest book.
+- Removed Herobrine.
+
+Sky of Diamonds-1.0.2
+*** Fast & Furious! ***
+- Fixed Bug: Pop up on login due to missed file during upload.
+- Removed Herobrine.
+
+Sky of Diamonds-1.0.1
+*** Tiny Update! ***
+- Updated to MetalChests-v5.8.9+mc1.12.2.
+- Removed Herobrine.
+
+Sky of Diamonds-1.0.0
+*** It Begins! ***
+- Initial Release, like OMG girlfriend!

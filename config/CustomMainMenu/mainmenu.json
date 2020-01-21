@@ -152,22 +152,63 @@
         }
     },
     
-    "other":
-    {
-        "splash-text":
-        {
-            "posX" : 90,
-            "posY" : 200,
-            "color" : -256,
-            "alignment" : "top_center",
-            "texts" : "file:menu:version.txt"
-        },
-        
-        "background":
-        {
-            "image" : "menu:textures/background.png",
-            "mode" : "stretch",
-            "gradient" : false
-        }
-    }
+   "other":{
+      "background":{
+         "image":"",
+         "mode":"stretch",
+         "slideshow":{
+            "images":[
+               "menu:textures/00.png",
+               "menu:textures/01.png",
+               "menu:textures/02.png",
+               "menu:textures/03.png",
+               "menu:textures/04.png",
+               "menu:textures/05.png",
+               "menu:textures/06.png",
+               "menu:textures/07.png",
+			   "menu:textures/08.png",
+               "menu:textures/09.png",
+               "menu:textures/10.png",
+               "menu:textures/11.png",
+               "menu:textures/12.png",
+               "menu:textures/13.png",
+			   "menu:textures/14.png",
+			   "menu:textures/15.png",
+			   "menu:textures/16.png",
+			   "menu:textures/17.png",
+			   "menu:textures/18.png",
+			   "menu:textures/19.png",
+			   "menu:textures/20.png",
+			   "menu:textures/21.png",
+			   "menu:textures/22.png",
+			   "menu:textures/23.png",
+			   "menu:textures/24.png",
+			   "menu:textures/25.png",
+			   "menu:textures/26.png",
+			   "menu:textures/27.png",
+			   "menu:textures/28.png",
+			   "menu:textures/29.png",
+			   "menu:textures/30.png",
+			   "menu:textures/31.png",
+			   "menu:textures/32.png",
+			   "menu:textures/33.png",
+			   "menu:textures/34.png",
+			   "menu:textures/35.png",
+			   "menu:textures/36.png",
+			   "menu:textures/37.png",
+			   "menu:textures/38.png",
+			   "menu:textures/39.png",
+			   "menu:textures/40.png",
+			   "menu:textures/41.png",
+			   "menu:textures/42.png",
+			   "menu:textures/43.png",
+			   "menu:textures/44.png",
+			   "menu:textures/45.png",
+			   "menu:textures/46.png"
+            ],
+            "displayDuration":2,
+            "fadeDuration":0
+         }
+      }
+   }
 }
