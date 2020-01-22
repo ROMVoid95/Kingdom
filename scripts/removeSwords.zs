@@ -18,7 +18,6 @@ static pickaxeRemove as IItemStack[] = [
 <iceandfire:myrmex_desert_sword_venom>,
 <iceandfire:myrmex_jungle_sword>,
 <iceandfire:myrmex_jungle_sword_venom>,
-<immersiveengineering:sword_steel>,
 <thaumcraft:thaumium_sword>,
 <thaumcraft:void_sword>,
 <thaumcraft:elemental_sword>.withTag({infench: [{lvl: 2 as short, id: 5 as short}]}),

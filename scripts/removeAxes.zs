@@ -22,7 +22,6 @@ static pickaxeRemove as IItemStack[] = [
 <iceandfire:dragonsteel_ice_pickaxe>,
 <iceandfire:dragonsteel_ice_axe>,
 <iceandfire:troll_weapon.axe>,
-<immersiveengineering:axe_steel>
 ];
 
 function disable(input as IItemStack) {

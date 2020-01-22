@@ -14,7 +14,6 @@ static pickaxeRemove as IItemStack[] = [
 <thaumcraft:thaumium_shovel>,
 <thaumcraft:void_shovel>,
 <thaumcraft:elemental_shovel>.withTag({infench: [{lvl: 1 as short, id: 1 as short}]}),
-<immersiveengineering:shovel_steel>,
 <iceandfire:dragonsteel_ice_shovel>,
 <iceandfire:dragonsteel_fire_shovel>,
 <iceandfire:myrmex_jungle_shovel>,
