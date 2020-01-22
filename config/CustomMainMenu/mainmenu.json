@@ -1,24 +1,25 @@
 {
     "images":
     {
-        "title":
-        {
-            "image" : "menu:textures/server-ic2on.png",
-            "posX" : 210,
-            "posY" : -85,
-            "width" : 150,
-            "height" : 150,
-            "alignment" : "left_center"
-        },
-        
         "black":
         {
-            "image" : "menu:textures/blacktransparent.png",
-            "posX" : 50,
-            "posY" : 0,
+            "image" : "menu:textures/back.png",
+            "posX" : -200,
+            "posY" : -150,
+            "width" : 163,
+            "height" : 251,
+			"imageWidth":271,
+			"imageHeight":418;
+            "alignment" : "right_center"
+        },
+		"title":
+        {
+            "image" : "menu:textures/server-ic2on.png",
+            "posX" : -170,
+            "posY" : -10,
             "width" : 100,
-            "height" : 2000,
-            "alignment" : "top_left"
+            "height" : 100,
+            "alignment" : "right_center"
         }
     },
     
@@ -27,14 +28,14 @@
         "singleplayer":
         {
             "text" : "",
-			"texture" : "menu:textures/Solo.png",
-            "posX" : 30,
-            "posY" : -75,
-            "width" : 140,
-            "height" : 50,
-			"imageWidth" : 407,
-            "imageHeight" : 269,
-            "alignment" : "left_center",
+			"texture" : "menu:textures/321.png",
+            "posX" : -198,
+            "posY" : -140,
+            "width" : 155,
+            "height" : 40,
+			"imageWidth" : 251,
+            "imageHeight" : 70,
+            "alignment" : "right_center",
 			"action" : 
             {
                 "type" : "openGui",
@@ -45,113 +46,65 @@
         "multiplayer":
         {
             "text" : "",
-			"texture" : "menu:textures/Server.png",
-            "posX" : 30,
-            "posY" : -35,
-            "width" : 140,
-            "height" : 50,
-			"imageWidth" : 407,
-            "imageHeight" : 269,
-            "alignment" : "left_center",
+			"texture" : "menu:textures/mp.png",
+            "posX" : -198,
+            "posY" : -100,
+            "width" : 155,
+            "height" : 40,
+			"imageWidth" : 251,
+            "imageHeight" : 70,
+            "alignment" : "right_center",
 			  "action" :
 		{
-		     "type" : "connectToServer",
-			 "ip" : "87.98.143.86:25590"
+            "type":"openGui",
+            "gui":"multiplayer"
 		}
         },
         
-        "mods":
+        "options":
         {
 			"text" : "",
-            "texture" : "menu:textures/discord2.png",
-            "posX" : 30,
-            "posY" : 5,
-            "width" : 140,
-            "height" : 50,
-			"imageWidth" : 407,
-            "imageHeight" : 269,
-            "alignment" : "left_center",
-			        "action" :
+            "texture" : "menu:textures/opt.png",
+            "posX" : -198,
+            "posY" : -60,
+            "width" : 155,
+            "height" : 40,
+			"imageWidth" : 251,
+            "imageHeight" : 70,
+            "alignment" : "right_center",
+			"action" :
+		{
+            "type":"openGui",
+            "gui":"custom.options"
+		}
+		},
+        
+        "language":
+        {
+			"text" : "",
+            "texture" : "menu:textures/disc.png",
+            "posX" : -190,
+            "posY" : 101,
+            "width" : 26,
+            "height" : 30,
+			"imageWidth" : 263,
+            "imageHeight" : 300,
+            "alignment" : "right_center",
+			"action" :
 		{
 		     "type" : "openLink",
 			 "link" : "https://discord.gg/zur7Zs8"
 		}
-        },
-            
-        "options":
-        {
-            "text" : "",
-            "posX" : 53,
-            "posY" : -25,
-            "width" : 20,
-            "height" : 20,
-            "imageWidth" : 500,
-            "imageHeight" : 500,
-            "alignment" : "bottom_left",
-			"texture" : "menu:textures/Quit.png",
-			"action" : 
-            {
-            "type" : "quit"
-            }
-
-        },
-        
-        "language":
-        {
-            "text" : "",
-            "posX" : -124,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
-            }
-        },
-        
-        "refresh":
-        {
-            "text" : "",
-            "posX" : -154,
-            "posY" : 132,
-            "width" : 20,
-            "height" : 20,
-            "texture" : "menu:textures/buttons.png",
-            "action" : 
-            {
-                "type" : "refresh"
-            }
-        }
+		}
     },
-    
-    "labels":
-    {
-        "mojang":
-        {
-            "text" : "",
-            "hoverText" : "",
-            "posX" : -197,
-            "posY" : -50,
-            "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "credits"
-            }
-        },
-        
-        "fm":
-        {
-            "text" : "",
-            "posX" : 2,
-            "posY" : -60,
-            "color" : -1,
-            "alignment" : "bottom_left"
-        }
-    },
-    
+      "labels":{
+		"tips":{
+         "text":"file:menu:version.txt",
+         "posX":-150,
+         "posY":110,
+         "alignment":"right_center"
+      }
+   },
    "other":{
       "background":{
          "image":"",
