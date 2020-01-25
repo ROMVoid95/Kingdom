@@ -131,21 +131,15 @@
 			"yMin": 4,
 			"yMax": 32,
 			"chance": 3,
-			"size": 16,
+			"size": 32,
 			"dimBlacklist": [
 				-1,
 				1
 			],
 			"density": 1.0,
 			"biomes": [
-				"minecraft:ice_mountains",
-				"minecraft:extreme_hills_with_trees",
-				"minecraft:mutated_extreme_hills",
-				"minecraft:mutated_extreme_hills_with_trees",
-				"minecraft:extreme_hills",
-				"minecraft:smaller_extreme_hills"
 			],
-			"isWhitelist": true
+			"isWhitelist": false
 		},
 		{
 			"blocks": [
