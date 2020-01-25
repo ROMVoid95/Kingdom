@@ -99,7 +99,7 @@
     },
       "labels":{
 		"tips":{
-         "text":"file:menu:version.txt",
+         "text":"web:https://raw.githubusercontent.com/ROMVoid95/Scepter-5-Kingdoms/master/b1.1.0",
          "posX":-150,
          "posY":110,
          "alignment":"right_center"
