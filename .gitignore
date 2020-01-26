@@ -16,3 +16,4 @@ config/splash.properties
 config/splash.properties
 config/splash.properties
 *.properties
+.ReAuth.cfg
