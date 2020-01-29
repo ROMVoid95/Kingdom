@@ -1,7 +1,7 @@
 {
    "images":{
 	  "logo":{
-         "image":"mainmenu:textures/logo3.png",
+         "image":"mainmenu:textures/logo.png",
          "posX":-230,
          "posY":1,
          "width":450,
@@ -14,7 +14,7 @@
    "buttons":{
       "singleplayer":{
          "text":"",
-         "texture":"mainmenu:textures/singleplayer2.png",
+         "texture":"mainmenu:textures/singleplayer.png",
          "posX":-195,
          "posY":56,
          "width":82,
@@ -29,7 +29,7 @@
       },
       "multiplayer":{
          "text":"",
-         "texture":"mainmenu:textures/multiplayer2.png",
+         "texture":"mainmenu:textures/multiplayer.png",
          "posX":-85,
          "posY":56,
          "width":82,
@@ -44,7 +44,7 @@
       },
       "options":{
          "text":"",
-         "texture":"mainmenu:textures/options3.png",
+         "texture":"mainmenu:textures/options.png",
          "posX":10,
          "posY":56,
          "width":82,
@@ -59,7 +59,7 @@
       },
       "fileaccess":{
          "text":"",
-         "texture":"mainmenu:textures/folderlinks6.png",
+         "texture":"mainmenu:textures/folderlinks.png",
          "posX":110,
          "posY":56,
          "width":82,
@@ -91,7 +91,7 @@
    "other":{
 		"background":
 		{
-			"image" : "mainmenu:textures/bg3.jpg",
+			"image" : "mainmenu:textures/bg.jpg",
 			"mode" : "stretch"
 		}
    }

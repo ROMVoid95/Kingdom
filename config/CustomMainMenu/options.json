@@ -1,7 +1,7 @@
 {
    "images":{
       "strip":{
-         "image":"mainmenu:textures/container2.png",
+         "image":"mainmenu:textures/container.png",
          "posX":-400,
          "posY":50,
          "width":1000,
@@ -11,7 +11,7 @@
          "alignment":"top_center"
       },
 	  "logo":{
-         "image":"mainmenu:textures/logo3.png",
+         "image":"mainmenu:textures/logo.png",
          "posX":-230,
          "posY":1,
          "width":450,
@@ -24,7 +24,7 @@
    "buttons":{
       "options":{
          "text":"",
-         "texture":"mainmenu:textures/gameopts2.png",
+         "texture":"mainmenu:textures/gameopts.png",
          "posX":-170,
          "posY":57,
          "width":82,
@@ -39,7 +39,7 @@
       },
       "mods":{
          "text":"",
-         "texture":"mainmenu:textures/modopts2.png",
+         "texture":"mainmenu:textures/modopts.png",
          "posX":-40,
          "posY":57,
          "width":82,
@@ -54,7 +54,7 @@
       },
       "lang":{
          "text":"",
-         "texture":"mainmenu:textures/lang2.png",
+         "texture":"mainmenu:textures/lang.png",
          "posX":90,
          "posY":56,
          "width":82,
@@ -70,7 +70,7 @@
       },
       "back":{
          "text":"",
-         "texture":"mainmenu:textures/back2.png",
+         "texture":"mainmenu:textures/back.png",
          "posX":225,
          "posY":56,
          "width":82,
@@ -110,7 +110,7 @@
    "other":{
 		"background":
 		{
-			"image" : "mainmenu:textures/bg3.jpg",
+			"image" : "mainmenu:textures/bg.jpg",
 			"mode" : "stretch"
 		}
    }
