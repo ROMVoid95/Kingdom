@@ -14,9 +14,9 @@
          "image":"mainmenu:textures/logo.png",
          "posX":-230,
          "posY":1,
-         "width":450,
+         "width":500,
          "height":50,
-		 "imageWidth":950,
+		 "imageWidth":1000,
 		 "imageHeight":99;
          "alignment":"top_center"
       }

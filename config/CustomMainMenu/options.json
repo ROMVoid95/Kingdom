@@ -14,9 +14,9 @@
          "image":"mainmenu:textures/logo.png",
          "posX":-230,
          "posY":1,
-         "width":450,
+         "width":500,
          "height":50,
-		 "imageWidth":950,
+		 "imageWidth":1000,
 		 "imageHeight":99;
          "alignment":"top_center"
       }
@@ -102,9 +102,9 @@
       "labels":{
 		"tips":{
          "text":"web:https://raw.githubusercontent.com/ROMVoid95/Scepter-5-Kingdoms/master/b1.1.0",
-         "posX":-150,
-         "posY":110,
-         "alignment":"right_center"
+         "posX":-50,
+         "posY":-20,
+         "alignment":"bottom_center"
       }
    },
    "other":{

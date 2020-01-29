@@ -14,9 +14,9 @@
          "image":"mainmenu:textures/logo.png",
          "posX":-230,
          "posY":1,
-         "width":450,
+         "width":500,
          "height":50,
-		 "imageWidth":950,
+		 "imageWidth":1000,
 		 "imageHeight":99;
          "alignment":"top_center"
       }
@@ -96,7 +96,22 @@
 			{
                 "type":"quit"
             }
-      }
+      },
+      "discord":{
+		 "text" : "",
+         "texture" : "mainmenu:textures/disc.png",
+         "posX":270,
+         "posY":56,
+         "width" : 18,
+         "height" : 22,
+		 "imageWidth" : 263,
+         "imageHeight" : 300,
+         "alignment" : "top_center",
+		"action" :{
+		     "type" : "openLink",
+			 "link" : "https://discord.gg/zur7Zs8"
+			}
+		}
    },
       "labels":{
 		"tips":{
