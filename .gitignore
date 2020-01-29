@@ -1,19 +1,27 @@
-
+# Dont Copy Client Instance Files
 minecraftinstance.json
 .curseclient
-options.txt
+
+# Ignore Directories
+**/crash-logs
 **/logs
 **/library
 **/resourcepacks
 **/saves
 **/journeymap
+**/armourers_workshop
+**/.mixin.out
+**/resourcepacks
+**/llibrary/debug
+
+# Misc files to ignore
 servers.dat
 crafttweaker.log
-**/armourers_workshop
-.mixin.out/audit/mixin_implementation_report.txt
+options.txt
 config/splash.properties
-.mixin.out/audit/mixin_implementation_report.csv
-config/splash.properties
-config/splash.properties
-*.properties
 .ReAuth.cfg
+usercache.json
+usernamecache.json
+crafttweaker.log
+knownkeys.txt
+
