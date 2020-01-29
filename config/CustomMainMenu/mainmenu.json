@@ -34,7 +34,7 @@
          "alignment":"top_center",
          "action":{
             "type":"openGui",
-            "gui":"custom.singleplayer"
+            "gui":"singleplayer"
          }
       },
       "multiplayer":{
@@ -96,6 +96,14 @@
 			{
                 "type":"quit"
             }
+      }
+   },
+      "labels":{
+		"tips":{
+         "text":"web:https://raw.githubusercontent.com/ROMVoid95/Scepter-5-Kingdoms/master/b1.1.0",
+         "posX":-50,
+         "posY":-20,
+         "alignment":"bottom_center"
       }
    },
    "other":{

@@ -97,14 +97,14 @@
 			{
                 "type":"quit"
             }
-      },
-      "version":{
-         "text":"file:menu:text/version.txt",
-         "posX":0,
-         "posY":-17,
-         "width":90,
-         "height":0,
-         "alignment":"bottom_center"
+      }
+   },
+      "labels":{
+		"tips":{
+         "text":"web:https://raw.githubusercontent.com/ROMVoid95/Scepter-5-Kingdoms/master/b1.1.0",
+         "posX":-150,
+         "posY":110,
+         "alignment":"right_center"
       }
    },
    "other":{
