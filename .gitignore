@@ -17,3 +17,8 @@ config/splash.properties
 config/splash.properties
 *.properties
 .ReAuth.cfg
+mods/millenaire/cultures/byzantines/buildings/military/watchtower_A.txt
+*.txt
+*.png
+usercache.json
+*.json

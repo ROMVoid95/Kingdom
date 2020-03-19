@@ -34,41 +34,31 @@ key.hotbar.9
 Change Caster Focus
 Misc Caster Toggle
 keybind.baublesinventory
-key.betterfoliage.gui
-key.davincis.up
-key.davincis.down
-key.davincis.brake
-key.davincis.align
-key.davincis.decompile
-key.davincis.shipinv
+Scene1 start/pause
+Scene2 start/pause
+Scene3 start/pause
+Scene reset
+Quest Log
+keybind.hammercorerenderstack
 key.gui_disegno_crest
+key.hud.classpanel
+key.hud.ability1
+key.hud.ability2
+key.hud.ability3
+key.hud.ability4
+key.hud.ability5
+key.hud.ability6
 key.toggleFoVChanges
 key.reloadSoundSystem
 key.toggleTimeOfDayOverlay
 key.wearablebackpacks.open
+zenscroll.options.modifier_key
+keyBinding.debuging2
 key.dismount
 key.narrator
-keybind.awCore.alt.item.use.1
-keybind.awCore.alt.item.use.2
-keybind.awCore.alt.item.use.3
-keybind.awCore.alt.item.use.4
-keybind.awCore.alt.item.use.5
-keybind.vehicle.forward
-keybind.vehicle.reverse
-keybind.vehicle.left
-keybind.vehicle.right
-keybind.vehicle.ascend.aim.up
-keybind.vehicle.descend.aim.down
-keybind.vehicle.fire
-keybind.vehicle.ammo.prev
-keybind.vehicle.ammo.next
-keybind.vehicle.turret.left
-keybind.vehicle.turret.right
-keybind.vehicle.mouse.aim
-keybind.vehicle.ammo.select
-keybind.awAutomation.toggle_workbounds_render
 keys.armourers_workshop.undo
 keys.armourers_workshop.open-wardrobe
+key.astikorcarts.desc
 key.jei.toggleOverlay
 key.jei.focusSearch
 key.jei.toggleCheatMode
@@ -80,6 +70,35 @@ key.jei.previousPage
 key.jei.nextPage
 key.jei.bookmark
 key.jei.toggleBookmarkOverlay
+mod.chiselsandbits.chiselmode.single
+mod.chiselsandbits.chiselmode.snap2
+mod.chiselsandbits.chiselmode.snap4
+mod.chiselsandbits.chiselmode.snap8
+mod.chiselsandbits.chiselmode.line
+mod.chiselsandbits.chiselmode.plane
+mod.chiselsandbits.chiselmode.connected_plane
+mod.chiselsandbits.chiselmode.cube_small
+mod.chiselsandbits.chiselmode.cube_medium
+mod.chiselsandbits.chiselmode.cube_large
+mod.chiselsandbits.chiselmode.same_material
+mod.chiselsandbits.chiselmode.drawn_region
+mod.chiselsandbits.chiselmode.connected_material
+mod.chiselsandbits.positivepatternmode.replace
+mod.chiselsandbits.positivepatternmode.additive
+mod.chiselsandbits.positivepatternmode.placement
+mod.chiselsandbits.positivepatternmode.impose
+mod.chiselsandbits.tapemeasure.bit
+mod.chiselsandbits.tapemeasure.block
+mod.chiselsandbits.tapemeasure.distance
+mod.chiselsandbits.other.mode
+mod.chiselsandbits.other.rotate.ccw
+mod.chiselsandbits.other.rotate.cw
+mod.chiselsandbits.other.pickbit
+mod.chiselsandbits.other.offgrid
+mod.chiselsandbits.other.undo
+mod.chiselsandbits.other.redo
+mod.chiselsandbits.other.add_to_clipboard
+Dynamic Lights toggle
 waila.keybind.wailaconfig
 waila.keybind.wailadisplay
 waila.keybind.liquid
@@ -89,21 +108,11 @@ key.dragon_fireAttack
 key.dragon_strike
 key.dragon_down
 key.dragon_change_view
+invtweaks.key.sort
+key.menu
+key.villages
+key.escorts
 Quick Commands
 tombstone.message.knowledge_of_death
-key.journeymap.zoom_in
-key.journeymap.zoom_out
-key.journeymap.minimap_type
-key.journeymap.minimap_preset
-key.journeymap.create_waypoint
-key.journeymap.toggle_waypoints
-key.journeymap.fullscreen_create_waypoint
-key.journeymap.fullscreen_chat_position
-key.journeymap.map_toggle_alt
-key.journeymap.fullscreen_waypoints
-key.journeymap.minimap_toggle_alt
-key.journeymap.fullscreen_options
-key.journeymap.fullscreen.north
-key.journeymap.fullscreen.south
-key.journeymap.fullscreen.east
-key.journeymap.fullscreen.west
+drpcore.keyBinding.openCrafting
+drpcore.keyBinding.placement_preview

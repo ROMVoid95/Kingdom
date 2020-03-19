@@ -1,167 +1,125 @@
 {
-    "images":
-    {
-        "black":
-        {
-            "image" : "menu:textures/back.png",
-            "posX" : -200,
-            "posY" : -150,
-            "width" : 163,
-            "height" : 251,
-			"imageWidth":271,
-			"imageHeight":418;
-            "alignment" : "right_center"
-        },
-		"title":
-        {
-            "image" : "menu:textures/server-ic2on.png",
-            "posX" : -170,
-            "posY" : -10,
-            "width" : 100,
-            "height" : 100,
-            "alignment" : "right_center"
-        }
-    },
-    
-    "buttons":
-    {
-        "singleplayer":
-        {
-            "text" : "",
-			"texture" : "menu:textures/321.png",
-            "posX" : -198,
-            "posY" : -140,
-            "width" : 155,
-            "height" : 40,
-			"imageWidth" : 251,
-            "imageHeight" : 70,
-            "alignment" : "right_center",
-			"action" : 
-            {
-                "type" : "openGui",
-                "gui" : "singleplayer"
-            }
-        },
-        
-        "multiplayer":
-        {
-            "text" : "",
-			"texture" : "menu:textures/mp.png",
-            "posX" : -198,
-            "posY" : -100,
-            "width" : 155,
-            "height" : 40,
-			"imageWidth" : 251,
-            "imageHeight" : 70,
-            "alignment" : "right_center",
-			  "action" :
-		{
+   "images":{
+      "strip":{
+         "image":"mainmenu:textures/container.png",
+         "posX":-400,
+         "posY":39,
+         "width":1000,
+         "height":23,
+         "alignment":"top_center"
+      },
+	  "logo":{
+         "image":"mainmenu:textures/logo.png",
+         "posX":-190,
+         "posY":1,
+         "width":350,
+         "height":35,
+         "alignment":"top_center"
+      }
+   },
+   "buttons":{
+      "singleplayer":{
+         "text":"",
+         "texture":"mainmenu:textures/singleplayer.png",
+         "posX":-195,
+         "posY":42,
+         "width":65,
+         "height":16,
+		 "imageWidth":180,
+		 "imageHeight":40;
+         "alignment":"top_center",
+         "action":{
+            "type":"openGui",
+            "gui":"singleplayer"
+         }
+      },
+      "multiplayer":{
+         "text":"",
+         "texture":"mainmenu:textures/multiplayer.png",
+         "posX":-85,
+         "posY":42,
+         "width":65,
+         "height":16,
+		 "imageWidth":180,
+		 "imageHeight":40;
+         "alignment":"top_center",
+         "action":{
             "type":"openGui",
             "gui":"multiplayer"
-		}
-        },
-        
-        "options":
-        {
-			"text" : "",
-            "texture" : "menu:textures/opt.png",
-            "posX" : -198,
-            "posY" : -60,
-            "width" : 155,
-            "height" : 40,
-			"imageWidth" : 251,
-            "imageHeight" : 70,
-            "alignment" : "right_center",
-			"action" :
-		{
+         }
+      },
+      "options":{
+         "text":"",
+         "texture":"mainmenu:textures/options.png",
+         "posX":10,
+         "posY":42,
+         "width":65,
+         "height":16,
+		 "imageWidth":180,
+		 "imageHeight":40;
+         "alignment":"top_center",
+         "action":{
             "type":"openGui",
             "gui":"custom.options"
-		}
-		},
-        
-        "language":
-        {
-			"text" : "",
-            "texture" : "menu:textures/disc.png",
-            "posX" : -190,
-            "posY" : 101,
-            "width" : 26,
-            "height" : 30,
-			"imageWidth" : 263,
-            "imageHeight" : 300,
-            "alignment" : "right_center",
-			"action" :
-		{
+         }
+      },
+      "fileaccess":{
+         "text":"",
+         "texture":"mainmenu:textures/folderlinks.png",
+         "posX":110,
+         "posY":42,
+         "width":65,
+         "height":16,
+		 "imageWidth":180,
+		 "imageHeight":40;
+         "alignment":"top_center",
+         "action":{
+            "type":"openGui",
+            "gui":"custom.accessfolders"
+         }
+      },
+	  "tip":{
+         "text":"Exit",
+         "texture":"mainmenu:textures/inv.png",
+         "posX":215,
+         "posY":44,
+         "width" : 12,
+         "height" : 15,
+         "alignment":"top_center",
+         "action" : 
+			{
+                "type":"quit"
+            }
+      },
+      "discord":{
+		 "text" : "",
+         "texture" : "mainmenu:textures/disc.png",
+         "posX":187,
+         "posY": 43,
+         "width" : 12,
+         "height" : 15,
+		 "imageWidth" : 263,
+         "imageHeight" : 300,
+         "alignment" : "top_center",
+		"action" :{
 		     "type" : "openLink",
 			 "link" : "https://discord.gg/zur7Zs8"
+			}
 		}
-		}
-    },
+   },
       "labels":{
 		"tips":{
-         "text":"web:https://raw.githubusercontent.com/ROMVoid95/Scepter-5-Kingdoms/master/b1.1.0",
-         "posX":-150,
-         "posY":110,
-         "alignment":"right_center"
+         "text":"web:https://raw.githubusercontent.com/ROMVoid95/Scepter-5-Kingdoms/master/b1.3.1",
+         "posX":-50,
+         "posY":-20,
+         "alignment":"bottom_center"
       }
    },
    "other":{
-      "background":{
-         "image":"",
-         "mode":"stretch",
-         "slideshow":{
-            "images":[
-               "menu:textures/00.png",
-               "menu:textures/01.png",
-               "menu:textures/02.png",
-               "menu:textures/03.png",
-               "menu:textures/04.png",
-               "menu:textures/05.png",
-               "menu:textures/06.png",
-               "menu:textures/07.png",
-			   "menu:textures/08.png",
-               "menu:textures/09.png",
-               "menu:textures/10.png",
-               "menu:textures/11.png",
-               "menu:textures/12.png",
-               "menu:textures/13.png",
-			   "menu:textures/14.png",
-			   "menu:textures/15.png",
-			   "menu:textures/16.png",
-			   "menu:textures/17.png",
-			   "menu:textures/18.png",
-			   "menu:textures/19.png",
-			   "menu:textures/20.png",
-			   "menu:textures/21.png",
-			   "menu:textures/22.png",
-			   "menu:textures/23.png",
-			   "menu:textures/24.png",
-			   "menu:textures/25.png",
-			   "menu:textures/26.png",
-			   "menu:textures/27.png",
-			   "menu:textures/28.png",
-			   "menu:textures/29.png",
-			   "menu:textures/30.png",
-			   "menu:textures/31.png",
-			   "menu:textures/32.png",
-			   "menu:textures/33.png",
-			   "menu:textures/34.png",
-			   "menu:textures/35.png",
-			   "menu:textures/36.png",
-			   "menu:textures/37.png",
-			   "menu:textures/38.png",
-			   "menu:textures/39.png",
-			   "menu:textures/40.png",
-			   "menu:textures/41.png",
-			   "menu:textures/42.png",
-			   "menu:textures/43.png",
-			   "menu:textures/44.png",
-			   "menu:textures/45.png",
-			   "menu:textures/46.png"
-            ],
-            "displayDuration":2,
-            "fadeDuration":0
-         }
-      }
+		"background":
+		{
+			"image" : "mainmenu:textures/bg.jpg",
+			"mode" : "stretch"
+		}
    }
 }

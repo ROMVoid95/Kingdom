@@ -1,0 +1,21 @@
+8.0.1 15-03-2020 16:57:06 Starting new session. Mods: examplemod 
+8.0.1 15-03-2020 16:59:09 MAJOR: null: Loading language: en_us
+8.0.1 15-03-2020 16:59:09 ERROR: null: Key goal.mineiron2 is present more than once in C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\strings.txt
+8.0.1 15-03-2020 16:59:09 ERROR: null: Key goal.mineiron2 is present more than once in C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\strings.txt
+8.0.1 15-03-2020 16:59:10 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 15-03-2020 16:59:10 ERROR: Culture: byzantines: en: In dialogue file C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 15-03-2020 16:59:16 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.1 16-03-2020 06:56:01 Starting new session. Mods: examplemod 
+8.0.1 16-03-2020 06:58:15 MAJOR: null: Loading language: en_us
+8.0.1 16-03-2020 06:58:16 ERROR: null: Key goal.mineiron2 is present more than once in C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\strings.txt
+8.0.1 16-03-2020 06:58:16 ERROR: null: Key goal.mineiron2 is present more than once in C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\strings.txt
+8.0.1 16-03-2020 06:58:16 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 16-03-2020 06:58:16 ERROR: Culture: byzantines: en: In dialogue file C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 16-03-2020 06:58:28 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.1 16-03-2020 21:37:00 Starting new session. Mods: examplemod 
+8.0.1 16-03-2020 21:38:42 MAJOR: null: Loading language: en_us
+8.0.1 16-03-2020 21:38:42 ERROR: null: Key goal.mineiron2 is present more than once in C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\strings.txt
+8.0.1 16-03-2020 21:38:42 ERROR: null: Key goal.mineiron2 is present more than once in C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\strings.txt
+8.0.1 16-03-2020 21:38:43 ERROR: Culture: byzantines: en_us: In dialogue file C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 16-03-2020 21:38:43 ERROR: Culture: byzantines: en: In dialogue file C:\Users\ander\Twitch\Minecraft\Instances\Scepter 5 Kingdoms (2)\mods\millenaire\languages\en\byzantines_dialogues.txt the following line is invalid: //* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+8.0.1 16-03-2020 21:38:54 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
